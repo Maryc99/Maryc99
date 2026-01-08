@@ -1,16 +1,14 @@
-## Hi there 👋
+# ✨​Hi there 👋, I am Maria Claudia✨​
 
-<!--
-**Maryc99/Maryc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻​ *Ingeniera en Telecomunicaciones y Electrónica* | *Apasionada por* ***Fronted y Tecnología***
 
-Here are some ideas to get you started:
+​🤓​ *Siempre aprendeindo, simpre **creando***
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+​​🌐​***Tech Stack:**  HTML | CSS | JavaScript | React | Git*
+
+​​📂​***Proyectos:** [Mi Portafolio] (#)*
+
+​​​📫​***Conecta conmigo:**
+[LinkedIn](www.linkedin.com/in/maria-claudia-reyes-hernandez-18a394241)*
+
+💡​ *"Codigo limpio, creatividad y café"*  ​​​☕​
