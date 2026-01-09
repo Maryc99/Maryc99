@@ -9,6 +9,6 @@
 ​​📂​***Proyectos:** [Mi Portafolio] (#)*
 
 ​​​📫​***Conecta conmigo:**
-[LinkedIn](www.linkedin.com/in/maria-claudia-reyes-hernandez-18a394241)*
+[LinkedIn](https://www.linkedin.com/in/maria-claudia-reyes-hernandez1999)*
 
 💡​ *"Codigo limpio, creatividad y café"*  ​​​☕​
