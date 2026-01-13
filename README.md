@@ -3,7 +3,7 @@
 <p>​
 👩‍💻​ *Ingeniera en Telecomunicaciones y Electrónica* | *Apasionada por* ***Fronted y Tecnología***
 
-​🤓​ *Siempre aprendeindo, simpre **creando***
+​🤓​ *Siempre aprendiendo, siempre **creando***
 
 ​​🌐​***Tech Stack:**  HTML | CSS | JavaScript | React | Git*
 
