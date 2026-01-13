@@ -1,9 +1,11 @@
 <p aling="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=✨​Hi%20there%20👋,-nl-%20I%20am%20Maria%20Claudia✨&fontSize=45&width=1000"/>
-<p>​
-👩‍💻​ *Ingeniera en Telecomunicaciones y Electrónica* | *Apasionada por* ***Fronted y Tecnología***
+</p>​
+<p aling="center">
+    👩‍💻 <strong>Ingeniera en Telecomunicaciones y Electrónica | Apasionada por <em>Fronted y Tecnología</em></strong>
+</p>
 
-​🤓​ *Siempre aprendiendo, siempre **creando***
+​🤓​ _Siempre aprendiendo, siempre **creando**_
 
 ​​🌐​***Tech Stack:**  HTML | CSS | JavaScript | React | Git*
 
