@@ -11,6 +11,11 @@
 
 ​​📂​***Proyectos:** [Mi Portafolio] (#)*
 
+### ⚡ Actividad reciente:
+<!-- START_SECTION:activity-->
+
+<!-- END_SECTION:activity-->
+
 ​​​📫​***Conecta conmigo:**
 [LinkedIn](https://www.linkedin.com/in/maria-claudia-reyes-hernandez1999)*
 
