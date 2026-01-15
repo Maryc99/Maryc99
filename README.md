@@ -20,7 +20,7 @@
 
     [![LinkedIn](./assets/linkedin.svg)](https://www.linkedin.com/in/maria-claudia-reyes-hernandez1999)
 
-    [![Instagram](.assets/instagram.svg)](https://www.instagram.com/mary_cr99/)
+    [![Instagram](./assets/instagram.svg)](https://www.instagram.com/mary_cr99/)
 
 
 💡​ *"Codigo limpio, creatividad y café"*  ​​​☕​
