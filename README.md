@@ -16,7 +16,11 @@
 
 <!-- END_SECTION:activity-->
 
-​​​📫​***Conecta conmigo:**
-[LinkedIn](https://www.linkedin.com/in/maria-claudia-reyes-hernandez1999)*
+​​​📫​**Conecta conmigo:**
+
+    [![LinkedIn](./assets/linkedin.svg)](https://www.linkedin.com/in/maria-claudia-reyes-hernandez1999)
+
+    [![Instagram](.assets/instagram.svg)](https://www.instagram.com/mary_cr99/)
+
 
 💡​ *"Codigo limpio, creatividad y café"*  ​​​☕​
